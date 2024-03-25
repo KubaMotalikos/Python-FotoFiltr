@@ -74,7 +74,7 @@ while True:
         break
 
     elif moznost == "2":
-        print("Zde vidíte múrumilovný tank.")
+        print("Zde vidíte mírumilovný tank.")
         filtr2()
         break
     
